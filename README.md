@@ -20,4 +20,4 @@ An automated **web scraper** built with **Python & Selenium** to extract product
 - **ChromeDriver**  
 
 ## 📂 Output  
-All scraped product data is stored in:  
+All scraped product data is stored in JSON file in formated manner.
